@@ -61,7 +61,7 @@
 框架与应用程序的划分，组件协作模式通过晚绑定，实现框架与应用程序之间的松耦合
 
 - [模板方法 Template Method](01.模板方法.md)
-- [Startegy]()
+- [策略模式 Startegy](02.策略模式.md)
 - [Observer/Event]()
 
 ### 2. 单一职责
