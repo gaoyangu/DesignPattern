@@ -62,7 +62,7 @@
 
 - [模板方法 Template Method](01.模板方法.md)
 - [策略模式 Startegy](02.策略模式.md)
-- [Observer/Event]()
+- [观察者模式 Observer/Event](03.观察者模式.md)
 
 ### 2. 单一职责
 
