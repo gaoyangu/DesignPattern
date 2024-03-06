@@ -58,10 +58,11 @@
 
 ### 1. 组件协作
 
-
+框架与应用程序的划分，组件协作模式通过晚绑定，实现框架与应用程序之间的松耦合
 
 - [模板方法 Template Method](01.模板方法.md)
-
+- [Startegy]()
+- [Observer/Event]()
 
 ### 2. 单一职责
 
@@ -78,3 +79,9 @@
 ### 8. 行为变化
 
 ### 9. 领域问题
+
+
+## 参考资料
+
+- 李建忠：C++设计模式
+- [卡码网设计模式精讲](https://github.com/youngyangyang04/kama-DesignPattern)
