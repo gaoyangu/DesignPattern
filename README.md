@@ -77,6 +77,7 @@
 
 - [工厂方法模式 Factory Method](06.工厂模式.md)
 - [抽象工厂模式 Abstract Factory](07.抽象工厂模式.md)
+- [原型模式 Prototype](08.原型模式.md) : 较少应用
 
 ### 4. 对象性能
 
